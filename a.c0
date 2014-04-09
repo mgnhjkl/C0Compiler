@@ -1,0 +1,13 @@
+int a,b;
+void main()
+{
+	int x, y;
+	a = 3;
+	scanf(x);
+	while(a!=x)
+	{
+		a = a - 1;
+	}
+	y = a;
+	printf("a = ",y);
+}

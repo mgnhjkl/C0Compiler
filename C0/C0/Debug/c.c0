@@ -1,0 +1,11 @@
+int a, b, c;
+int a(int b, int c)
+{
+	b = a;
+	c = b;
+}
+void main(int b)
+{
+	int x, y;
+	scanf(b);
+}

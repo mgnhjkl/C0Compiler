@@ -1,0 +1,24 @@
+int swap(int a, int b)
+{
+	int tmp
+	tmp = a;
+	a = b;
+	b = tmp;
+	return (1);
+}
+int swap(int a, int b){}
+int main()
+{
+	int x, y;
+	x = 1;
+	y = 0;
+	swap(x, y);
+	if(x == 0
+	{
+		printf("x =", y) ;
+	}
+	else
+	{
+		printf("x =", x);
+	}
+}

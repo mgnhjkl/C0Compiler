@@ -1,0 +1,13 @@
+const q = 10;
+int a, b, c;
+void func1(int b, int c)
+{
+	b = a/c;
+	c = b*c;
+}
+void main(int b)
+{
+	int x, y;
+	func1(x, q);
+	printf(b);
+}
